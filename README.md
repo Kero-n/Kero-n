@@ -42,20 +42,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/Kero-n/Kero-n/blob/output/github-snake-dark.svg)
