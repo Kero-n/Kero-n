@@ -47,3 +47,15 @@
 <img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Kero-n/Kero-n/output/snake.svg" alt="Snake animation" />
+
+###
