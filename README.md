@@ -1,5 +1,5 @@
 <h1 align="center">Hey Geeks</h1>
-<h3 align="center">I'm Keron Tifso, a Computer Science student passionate about Data Science, Machine Learning, and building impactful solutions using modern technologies.</h3>
+<h3 align="center">My primary goal is to follow my passion in Data Science while teaming up with people with similar mindset to come up with products that put a significant impact towards future in Science and Technology.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keron-tifso/" target="_blank">
