@@ -1,18 +1,21 @@
 <h1 align="center">Hey Geeks</h1>
-<h3 align="center">I'm Keron Tifso, I'm a Computer Science student passionate about Data Science, Machine Learning, and building impactful solutions using modern technologies.</h3>
-
+<h3 align="center">I'm Keron Tifso, a Computer Science student passionate about Data Science, Machine Learning, and building impactful solutions using modern technologies.</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keron-tifso/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://x.com/spades_______" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" alt="Twitter/X" />
   </a>
   <a href="https://discordapp.com/users/Keron#1036" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord" />
+  </a>
+  <a href="mailto:kerontifso777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
   </a>
 </div>
+
 
 ---
 
